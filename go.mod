@@ -15,9 +15,9 @@ require (
 	go.mau.fi/webp v0.1.0
 	go.mau.fi/whatsmeow v0.0.0-20231018112044-306bf6fef4d2
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
-	golang.org/x/image v0.13.0
-	golang.org/x/net v0.17.0
-	google.golang.org/protobuf v1.31.0
+	golang.org/x/image v0.18.0
+	golang.org/x/net v0.21.0
+	google.golang.org/protobuf v1.33.0
 	maunium.net/go/maulogger/v2 v2.4.1
 	maunium.net/go/mautrix v0.16.1
 )
@@ -41,9 +41,9 @@ require (
 	github.com/yuin/goldmark v1.5.6 // indirect
 	go.mau.fi/libsignal v0.1.0 // indirect
 	go.mau.fi/zeroconfig v0.1.2 // indirect
-	golang.org/x/crypto v0.14.0 // indirect
-	golang.org/x/sys v0.13.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	maunium.net/go/mauflag v1.0.0 // indirect
